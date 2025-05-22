@@ -64,6 +64,10 @@ text-align: right;
 box-shadow: none;
 flex: 1;
 font-size: 45px;
+cursor:text;
+ }
+ form input{
+  cursor: pointer;
  }
 form input.equal{
   width: 130px;
